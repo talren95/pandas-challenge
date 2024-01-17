@@ -7,8 +7,8 @@ In tackling this project, I utilized resources like StackOverflow, ChatGPT, and 
 
 # Written Report
 
-Upon analyzing the data provided on district and charter schools along with their respective student performance, it becomes evident that charter schools consistently outperform district schools in terms of overall student success. Notably, charter schools emerge as the top performers, while district schools tend to rank lower.
+In analyzing the data on district and charter schools along with their respective student outcomes, it becomes apparent that charter schools consistently outperform district schools in terms of overall student success. The results indicate that charter schools rank at the top, boasting a higher percentage of passing students, while district schools lag behind with lower scores.
 
-Specifically, in the domains of mathematics and reading, charter schools demonstrate superior results. Their students excel in mathematics, and both types of schools exhibit commendable performance in reading, with a high percentage achieving passing grades. Despite potentially similar or even lower budgets for charter schools compared to district schools, they still manage to achieve remarkable success in terms of student success.
+Examining the performance of students in mathematics and reading, charter schools continue to demonstrate superiority, particularly in average math scores. However, both school types exhibit commendable performance in average reading scores and grades. Notably, despite potentially similar or even lower budgets for charter schools compared to district schools, they manage to excel in facilitating student success.
 
-In conclusion, the data suggests that charter schools, despite facing potential budget constraints, excel in fostering student achievement, surpassing their district counterparts in overall performance.
+In summary, the analysis suggests that charter schools, despite potential budget constraints, have achieved remarkable success in fostering higher student passing rates, particularly in mathematics, showcasing their effectiveness compared to district schools.
